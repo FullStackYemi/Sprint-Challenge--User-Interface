@@ -34,13 +34,27 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is what gives meaning to your code. It lets you know what a part of the page is. A header is the top part of the HTML document. A section is a section. A footer is the bottom part of the document. 
+
+You can't do that with things like divs and spans, because they can be anything. 
+
+Semantic HTML is important for accessibility, as screen readers read it. It's essential for web developers to use Semantic HTML. 
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+With inline elements, you're unable to set a vertical margin, height or width. Not so with block elements. 
+
 3. What are the 4 areas of the box model?
+Content, Padding, Border, Margin
+
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+Cross axis
+
 5. Explain why git is valuable to a team of developers.
+
+Git is valuable to a developer team because each developer is able to work on a portion of the project and upload their specific contribution to the project. It allows for things like version control, so that if there's an issue with a specific segment of uploaded code, the issue can be isolated, identified and corrected.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
